@@ -10,5 +10,4 @@ public class learnJava {
 	public static void addExP(String s) {
 		System.out.println(s + "!");
 	}
-
 }
